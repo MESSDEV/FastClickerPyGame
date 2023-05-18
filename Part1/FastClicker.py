@@ -1,4 +1,4 @@
-409119import pygame
+import pygame
 import time
 pygame.init()
 '''creating the program window'''
